@@ -1,6 +1,7 @@
 sample_cookbook Cookbook
 ========================
 Test git push to a legit git repo.
+- Add this line
 
 e.g.
 This cookbook makes your favorite breakfast sandwhich.
